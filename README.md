@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing intro banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sahil+Pandey;CSE+Student+%40+Chhatrapati+Shivaji+Maharaj+University;Exploring+Web+Dev+%2B+Python+%2B+AI;Vibe+Coder+%7C+Anime+Fan+%7C+Curious+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Sahil+Pandey;CSE+Student+%40+Chhatrapati+Shivaji+Maharaj+University;Exploring+Web+Dev+%2B+Python+%2B+AI;Vibe+Coder+%7C+Anime+Fan+%7C+Curious+Builder" alt="Typing SVG" />
 
 <br/>
 
