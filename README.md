@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing intro banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sahil+Pandey;CSE+Student+%40+Chhatrapati+Shivaji+Maharaj+University;Exploring+Web+Dev+%2B+Python+%2B+AI;Vibe+Coder+%7C+Anime+Fan+%7C+Curious+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sahil+Pandey;CSE+ Student+%40+Chhatrapati+Shivaji+Maharaj+University;Exploring+Web+Dev+%2B+Python+%2B+AI;Vibe+Coder+%7C+Anime+Fan+%7C+Curious+Builder" alt="Typing SVG" />
 
 <br/>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahil152307-dev&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sahil152307-dev&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -181,7 +181,7 @@ Cybersecurity        ████░░░░░░░░░░░  25%   (found
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-sahil1523.07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil1523.07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_your_profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/sahil-pandey-3334083a7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](connectto:www.linkedin.com/in/sahil-pandey-3334083a7)
 
 </div>
 
