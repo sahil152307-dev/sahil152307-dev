@@ -14,20 +14,11 @@
 
 ## 🖥️ `whoami`
 
-```bash
-> sahil@csmu:~$ whoami
-Sahil Pandey — B.Tech CSE, 2nd Year
-Chhatrapati Shivaji Maharaj University
+<div align="center">
 
-> sahil@csmu:~$ cat interests.txt
-Web Development · Python · Artificial Intelligence
-Currently diving deeper into JavaScript & React
-Next up: Data Structures & Algorithms
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=00FF9C&background=0D1117&center=true&vCenter=true&multiline=true&width=650&height=150&lines=sahil%40csmu%3A~%24+whoami;Sahil+Pandey+-+B.Tech+CSE%2C+2nd+Year;sahil%40csmu%3A~%24+cat+interests.txt;Web+Dev%2C+Python%2C+AI+-+learning+JS+%26+React;sahil%40csmu%3A~%24+echo+%24GOAL;Go+full-stack.+Learn+cybersecurity+properly." alt="terminal typing animation" />
 
-> sahil@csmu:~$ echo $GOAL
-"Go full-stack. Understand cybersecurity properly.
- Figure out the rest as I build."
-```
+</div>
 
 ---
 
