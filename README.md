@@ -80,18 +80,6 @@
 
 ---
 
-## 🏅 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sahil152307-dev&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
-> Zero setup needed — this pulls live from your GitHub activity automatically. As you push more commits, open PRs, and get stars, these trophies level up on their own.
-
----
-
 ## 🏆 Certifications & Simulations
 
 <table>
@@ -181,7 +169,7 @@ Cybersecurity        ████░░░░░░░░░░░  25%   (found
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-sahil1523.07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil1523.07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/sahil-pandey-3334083a7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](connectto:www.linkedin.com/in/sahil-pandey-3334083a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-pandey-3334083a7)
 
 </div>
 
